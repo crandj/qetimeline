@@ -233,6 +233,10 @@
             "1850/09/09",
             "California becomes a US state",
           ],
+           [
+            "1980/12/11",
+            "Love Canal USEPA Superfund site",
+          ],
         ];
       }
 
