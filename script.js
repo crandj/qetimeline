@@ -237,6 +237,10 @@
             "1980/12/11",
             "Love Canal USEPA Superfund site",
           ],
+          [
+            "2021/02/02",
+            "China bans crypto-mining",
+          ],
         ];
       }
 
@@ -288,7 +292,8 @@
           ["2004/01/01", "Facebook"],
           ["2008/01/01", "Bitcoin"],
           ["2012/01/01", "Coinbase"],
-          ["2015/01/01", "Ethereum"]
+          ["2015/01/01", "Ethereum"],
+          ["2017/02/02", "Greenidge & Coinmint NY crypto", "2017 - Greenidge Generation in Dresden, NY, first Bitcoin mine in NY begins operations in 2017 following its conversion from coal to natural gas. In 2018, ALCOA Massena leased to Coinmint to begin their crypto mining operations."],
         ];
       }
 
