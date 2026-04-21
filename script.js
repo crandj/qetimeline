@@ -281,6 +281,7 @@
           ["1933/01/05", "Golden Gate Bridge"],
           ["1936/03/31", "Hoover Dam"],
           ["1956/02/02", "Shockley Semiconductor Lab"],
+          ["1963/07/01", "Project MAC", "Corbato at MIT, and the computer daemon. Also timesharing which helps enable personal computing."],
           ["1939/02/02", "Hewlett-Packard Garage", "Founded by Bill Hewlett and David Packard"],
           ["1969/06/10", "ARPANET"],
           ["1979/06/10", "USENET"],
@@ -690,7 +691,7 @@ var textMarker21 = chart.textMarker(20);
 // set value (position)
 textMarker21.value("2015-01-25");
 // set text
-textMarker21.text("ketamine, peptides");
+textMarker21.text("ketamine, peptides, vc sycophancy");
 // styling
 textMarker21.fontColor("#6688bf");
 textMarker21.fontSize(12);
