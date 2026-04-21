@@ -118,6 +118,7 @@
             name: "SCENARIO PLANNING",
             start: "1950/01/01",
             end: "1970/01/01",
+            info: "Shell Oil company",
             fill: "#0029e0 0.75",
             stroke: "rgb(255, 255, 255)"
           },
